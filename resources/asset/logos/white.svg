@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202.505" height="93.723" viewBox="0 0 202.505 93.723">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.016" y1="0.692" x2="1.03" y2="0.342" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b9e0"/>
+      <stop offset="0.085" stop-color="#00b5de"/>
+      <stop offset="0.193" stop-color="#00acda"/>
+      <stop offset="0.313" stop-color="#009fd4"/>
+      <stop offset="0.44" stop-color="#008ccb"/>
+      <stop offset="0.469" stop-color="#0087ca"/>
+      <stop offset="0.537" stop-color="#0083c5"/>
+      <stop offset="0.637" stop-color="#0078b9"/>
+      <stop offset="0.755" stop-color="#1367a8"/>
+      <stop offset="0.888" stop-color="#1f5095"/>
+      <stop offset="1" stop-color="#273884"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-9.006" y1="1.832" x2="1.212" y2="0.362" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1.192" y1="0.45" x2="11.41" y2="-1.021" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient" cx="0.326" cy="0.461" r="1.105" gradientTransform="translate(0.191) scale(0.617 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.07" stop-color="#011e3a"/>
+      <stop offset="0.249" stop-color="#031c36"/>
+      <stop offset="0.522" stop-color="#0a182a"/>
+      <stop offset="0.853" stop-color="#080d14"/>
+      <stop offset="1" stop-color="#010101"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#494046"/>
+    </linearGradient>
+  </defs>
+  <g id="white" transform="translate(-618 -482)">
+    <g id="TRADEXPORT" transform="translate(618 482)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0 64.361)">
+        <g id="Group_1" data-name="Group 1">
+          <text id="TRADEX" transform="translate(0 13)" fill="#01b9e0" font-size="17" font-family="Gunship"><tspan x="0" y="0">TRADEX</tspan></text>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(106.505)">
+          <text id="EXPERT" transform="translate(0 13)" fill="#212021" font-size="17" font-family="Gunship"><tspan x="0" y="0">EXPERT</tspan></text>
+        </g>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(46.032 84.723)">
+        <text id="trade_the_world" data-name="trade the world" transform="translate(0 7)" fill="#212021" font-size="7" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.476em"><tspan x="0" y="0">TRADE THE WORLD</tspan></text>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(68.142 0)">
+        <path id="Path_1" data-name="Path 1" d="M411.351,182.266V167.707a12.858,12.858,0,0,0-6.3-10.7,38.952,38.952,0,0,0-18.819-5.116v-4.115a6.21,6.21,0,1,0-3.491,0v4.182c-10.438.245-15.2,3.022-15.2,3.022a15.781,15.781,0,0,0-9.574,11.713v14.979a8.424,8.424,0,0,0,4.055,6.694c8.447,5.568,23.089,5.7,23.089,5.7a62.518,62.518,0,0,0,13.515-2.14C411.576,188.543,411.351,182.266,411.351,182.266Zm-29.579-40.447a2.719,2.719,0,1,1,2.718,2.719A2.718,2.718,0,0,1,381.772,141.818Zm8.42,16.892a39.169,39.169,0,0,0-11.966,0,.418.418,0,0,1-.424-.358.441.441,0,0,1,.364-.5,34.643,34.643,0,0,1,12.026,0,.5.5,0,0,1,.442.5S390.552,158.744,390.191,158.71Z" transform="translate(-351.433 -135.608)" fill="url(#linear-gradient)"/>
+        <g id="Group_6" data-name="Group 6" transform="translate(0 27.368)">
+          <g id="Group_5" data-name="Group 5" transform="translate(0 3.909)">
+            <path id="Path_2" data-name="Path 2" d="M509.433,222.156v13.855c5.294.538,5.294-2.221,5.294-2.221v-8.785C514.276,222.3,509.433,222.156,509.433,222.156Z" transform="translate(-448.163 -222.156)" fill="url(#linear-gradient-2)"/>
+            <path id="Path_3" data-name="Path 3" d="M339.89,225.005v8.785s0,2.76,5.294,2.221V222.156S340.341,222.3,339.89,225.005Z" transform="translate(-339.89 -222.156)" fill="url(#linear-gradient-3)"/>
+          </g>
+          <path id="Path_4" data-name="Path 4" d="M374.468,217.534a3.311,3.311,0,0,1,1.577-3.041s4.28-2.7,20.273-3.154c0,0,11.038.45,17.345,3.1,0,0,1.914.725,1.914,2.422v12.5a3.128,3.128,0,0,1-1.464,2.365s-4.054,4.266-19.09,5c0,0-12.152,0-19.316-5.118a2.808,2.808,0,0,1-1.248-2.14Z" transform="translate(-361.966 -211.34)" fill="#231f20"/>
+          <path id="Path_5" data-name="Path 5" d="M374.468,217.534a3.311,3.311,0,0,1,1.577-3.041s5.019-3.154,20.273-3.154c0,0,11.038.45,17.345,3.1,0,0,1.914.725,1.914,2.422v12.5a3.128,3.128,0,0,1-1.464,2.365s-4.054,4.266-19.09,5c0,0-12.152,0-19.316-5.118a2.808,2.808,0,0,1-1.248-2.14Z" transform="translate(-361.966 -211.34)" fill="url(#radial-gradient)"/>
+          <path id="Path_6" data-name="Path 6" d="M381.372,219.913v1.516c2,2.246,9.834,7.093,37.145,7.506v-9.548c0-.458-.644-.692-.75-.736l-.059-.024c-5.7-2.392-15.434-2.915-16.3-2.956-13.179-.265-19.282,2.867-19.3,2.879a1.494,1.494,0,0,0-.743,1.3Z" transform="translate(-366.373 -214.096)" fill="url(#linear-gradient-4)"/>
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="4.167" cy="4.167" r="4.167" transform="translate(40.2 8.528)" fill="#fff"/>
+          <circle id="Ellipse_2" data-name="Ellipse 2" cx="4.167" cy="4.167" r="4.167" transform="translate(17.232 8.528)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -22,7 +22,7 @@ class AuthController extends Controller
     {
         $request->validate([
             'full_name' => 'required|string|max:255',
-            //'phone_number' => 'required|string|regex:/^[0-9]{10,12}$/|unique:users,phone_number',
+            'phone_number' => 'required|string|regex:/^[0-9]{10,12}$/|unique:users,phone_number',
         ]);
 
         // Check if the user already exists
@@ -42,7 +42,7 @@ class AuthController extends Controller
             return response()->json(['message' => 'OTP sent to your phone']);
             // Create a new user
             // $user = new User();
-            // $user->name = request('full_name');ok
+            // $user->name = request('full_name');
 
             // $user->phone_number = request('phone_number');
             // $user->save();
