@@ -6,9 +6,9 @@ use Illuminate\Http\Request;
 
 class AdminController extends Controller
 {
-    public function showLoginForm()
+    public function dashboard()
     {
-        return view('admin.login');
+        return view('admin.dashboard');
     }
     public function attemptLogin(Request $request)
     {

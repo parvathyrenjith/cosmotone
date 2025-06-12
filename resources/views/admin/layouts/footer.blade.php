@@ -15,15 +15,15 @@
     </footer>
 
 
-    
-    <script src="asset/js/vendor/bootstrap.bundle.min.js"></script>
-    <script src="asset/js/vendor/perfect-scrollbar.min.js"></script>
-    <script src="asset/js/vendor/mousetrap.min.js"></script>
-    <script src="asset/js/vendor/datatables.min.js"></script> 
-    <script src="asset/js/vendor/video.js"></script> 
 
-    <script src="asset/js/dore.script.js"></script>
-    <script src="asset/js/scripts.single.theme.js"></script>
+    <script src="{{ URL::asset('asset/js/vendor/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ URL::asset('asset/js/vendor/perfect-scrollbar.min.js') }}"></script>
+    <script src="{{ URL::asset('asset/js/vendor/mousetrap.min.js') }}"></script>
+    <script src="{{ URL::asset('asset/js/vendor/datatables.min.js') }}"></script>
+    <script src="{{ URL::asset('asset/js/vendor/video.js') }}"></script>
+
+    <script src="{{ URL::asset('asset/js/dore.script.js') }}"></script>
+    <script src="{{ URL::asset('asset/js/scripts.single.theme.js') }}"></script>
 </body>
 
 </html>

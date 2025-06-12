@@ -40,6 +40,12 @@ class RegisterController extends Controller
         $this->middleware('guest');
     }
 
+    // Override the trait method
+    public function showRegistrationForm()
+    {
+        return view('admin.auth.register'); // Your custom view path here
+    }
+
     /**
      * Get a validator for an incoming registration request.
      *
